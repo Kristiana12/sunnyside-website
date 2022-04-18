@@ -104,7 +104,7 @@ nav#footer-nav {
 
 /* HEADER */
 #header {
-  height: max(70vh, 500px);
+  height: max(100vh, 500px);
   position: relative;
   background: url(./images/mobile/image-header.jpg) no-repeat center/cover;
   text-align: center;
@@ -484,7 +484,6 @@ h4.testimonials-title {
 @media only screen and (min-width: 850px) {
   /* HEADER */
   #header {
-    height: max(80vh, 500px);
     background: url(./images/desktop/image-header.jpg) no-repeat center/cover;
   }
 
